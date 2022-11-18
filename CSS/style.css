@@ -14,11 +14,12 @@ nav li {
 	text-decoration: none;
 	text-transform: uppercase;
 	padding-right: 5%;
+	;
 }
 
 nav {
 	width: 940px;
-	top: 65px;
+	top: 130px;
 	right: 15px;
 }
 
