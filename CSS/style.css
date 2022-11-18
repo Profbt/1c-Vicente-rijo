@@ -14,11 +14,17 @@ nav {
 	background-color: antiquewhite;
 }
 
+
 nav a {
 	font-weight: lighter;
 	font-size: 35px;
 	text-decoration: none;
 	color: chocolate;
+}
+
+nav a:hover {
+	color: red;
+	text-decoration: underline;
 }
 
 #banner {
