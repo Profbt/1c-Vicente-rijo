@@ -18,6 +18,7 @@ nav li {
 }
 
 nav {
+	position: absolute;
 	width: 940px;
 	top: 130px;
 	right: 15px;
