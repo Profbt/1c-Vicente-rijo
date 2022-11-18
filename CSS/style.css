@@ -3,6 +3,9 @@
     width: 940px;
     margin: 0 auto;
 }
+#logo {
+	width: 25%;
+}
 
 nav li {
 	display: inline;
