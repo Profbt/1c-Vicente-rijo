@@ -1,5 +1,6 @@
 .conteiner {
 	position: relative;
+	display: block;
     width: 940px;
     margin: 0 auto;
 }
