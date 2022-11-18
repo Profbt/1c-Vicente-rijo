@@ -10,6 +10,12 @@ nav li {
 	padding-right: 0%;
 }
 
+nav a {
+	font-weight: lighter;
+	font-size: 35px;
+	text-decoration: none;
+	color: chocolate;
+}
 
 #banner {
 	width: 100%;
